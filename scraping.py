@@ -23,4 +23,3 @@ for country_info in country_infos:
 
 driver.quit()
 
-
